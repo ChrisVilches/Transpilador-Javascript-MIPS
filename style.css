@@ -1,0 +1,16 @@
+pre.result{
+	background-color: #f5f5f5;
+	padding: 20px;
+}
+
+.btn-toolbar .btn {
+	margin: 10px 0; 
+}
+
+.blank-space{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.container {
+	width: 970px !important;
+}
